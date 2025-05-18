@@ -9,39 +9,59 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education & Courses
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Jul 2024** — B.Sc. in Geophysics (Cum Laude), Gadjah Mada University
+* **Jul 2023** — Machine Learning Specialization, Bangkit Independent Study Program, Bandung
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Apr 2025 – Present** — Data Management Intern, Pertamina–Medco E&P Tomori Sulawesi, Jakarta  
+  * Developed and QA‑tested a web app for subsurface data management (TPDM) and integrated ML modules for synthetic sonic logs.  
+  * Conducted weekly user‑quality control (UQC) testing and provided feedback to refine system features.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Jan 2024 – Apr 2025** — Research Geophysicist, Geoseismal Research Center, Yogyakarta  
+  * Built ML models (using PyTorch, SciKitLearn, Pandas, NumPy) for DTP/DTS log prediction and pore‑pressure estimation in collaboration with Pertamina Hulu Mahakam. 
+  * Developed backend modules on Dataiku DSS for deep‑learning–based fault analysis with Pertamina Hulu Rokan.
+  * Contributed to Mahakam Integrated Fluid Interpretation (MIFI) improvements via Python & Loglan scripting.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* **Oct 2023 – Jun 2024** — Thesis Student Intern, Pusat Survei Geologi (PSG), Bandung  
+  * Researched Low‑Frequency Passive Seismic (LFPS) on Majalengka Sub‑basin and developed the open‑source **lfpspy** package.  
+  * Delivered hands‑on training in LFPS processing to PSG staff and fellow interns.
+
+* **Feb 2023 – Jun 2023** — Student Intern, BMKG Geophysics Station, Yogyakarta  
+  * Analyzed community preparedness for the Tsunami Ready Community program in Sindutan Village.
+
+* **Jun 2022 – Nov 2022** — Software Developer Intern, Geoseismal Research Center, Yogyakarta  
+  * Built **FiQCi**, a Python‑based field‑QC tool for LFPS acquisition with both backend and frontend interfaces.
+
+Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* [**lfpspy**](https://github.com/ichsanhibatullah/lfpspy) (Aug 2024 – Oct 2024)  
+  An open‑source Python package for Low‑Frequency Passive Seismic processing, available on GitHub.
 
-Publications
+* **Field Camp Data Research**, SEG UGM SC, Dieng (Nov 2022 – Sep 2023)  
+  Conducted field surveys for landslide potential, acquired microseismic data, and produced a microzonation map.
+
+Achievements
+======
+* **1st Winner**, IGTV Competition, Green Earth Challenge (GEC) 2022, Malang
+
+Skills & Tools
+======
+* **Languages:** Bahasa Indonesia (Native), English (Professional Working Proficiency)
+* **Skills:** Geophysics, Machine Learning, Data Science, Data Analytics, Backend Developer
+* **Programming Languages:** Python, C#, SQL
+* **Software Proficient:** Geolog, VS Code / Visual Studio, SQL Server Management Studio, Dataiku DSS, GitHub, Adobe Photoshop, Premiere Pro  
+
+Certifications
+======
+* [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/F3P6WSZCZPPB) (Google, Coursera)  
+* [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/CGJBA99TDNQA) (Stanford University, Coursera)  
+* [TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/4PM4WTZ45FSQ) (DeepLearning.AI, Coursera)  
+* [Dataiku Core Designer](https://verify.skilljar.com/c/qnez3ywifu9p) & [Dataiku ML Practitioner](https://verify.skilljar.com/c/yqmgnt4va74y) (Dataiku Academy)
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -57,8 +77,4 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> -->
