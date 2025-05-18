@@ -1,6 +1,6 @@
 ---
 title: "lfpspy - A Python package for low-frequency passive seismic (LFPS) method processing"
-excerpt: "I. Hibatullah¹, Sudarmaji¹, N.N. Hamidah²<br>¹Department of Physics, Faculty of Mathematics and Natural Sciences, Gadjah Mada University, Yogyakarta, Indonesia<br>²Centre for Geological Survey, Geological Agency of Indonesia, Ministry of Energy and Mineral Resources<br><br>Geophysics processing package of Low-Frequency Passive Seismic (LFPS) Method using Python programming language.<br/><img src='/images/lfpspy/Station 38-Spectral Analysis.png' width='600' height=500>"
+excerpt: "I. Hibatullah¹, Sudarmaji¹, N.N. Hamidah²<br>¹Department of Physics, Faculty of Mathematics and Natural Sciences, Gadjah Mada University, Yogyakarta, Indonesia<br>²Centre for Geological Survey, Geological Agency of Indonesia, Ministry of Energy and Mineral Resources<br><br>Geophysics processing package of Low-Frequency Passive Seismic (LFPS) Method using Python programming language.<br><p align='center'><img src='/images/lfpspy/Station 38-Spectral Analysis.png' width='600' height=500></p>"
 collection: portfolio
 ---
 

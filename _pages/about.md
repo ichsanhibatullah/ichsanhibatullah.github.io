@@ -13,10 +13,10 @@ Hi, I’m **Ichsan Hibatullah** — currently a Data Management Intern at [JOB P
 
 I hold a B.Sc. in Geophysics (Science) from Gadjah Mada University and completed a Machine Learning Specialization through Bangkit, on Independent Study Program. My passion lies at the intersection of computational geophysics and data science — I specialize in Python, C#, SQL, and ML frameworks to turn raw subsurface data into actionable insights.
 
-This site is a living portfolio of my work:  
+This site is a living portfolio of my work, consisting:  
+- 📝 [Blog Posts](/year-archive/) where I share tutorials and lessons learned.  
 - 🔭 [Projects](/portfolio/) that showcase my coding and research.  
 - 📚 [Publications](/publications/) on geophysics and ML methods.  
-- 📝 [Blog Posts](/year-archive/) where I share tutorials and lessons learned.  
 - 📄 A dynamically‑generated [CV](/cv/) with my full background.
 
 ---
@@ -24,7 +24,9 @@ This site is a living portfolio of my work:
 ## Fun Facts
 
 - 🍱 I’m on a mission to taste every local dish in every country I visit.  
-- 🏋️‍♂️ To balance my foodie side, I hit the gym — this year’s goal is visible abs!  
+- 🏋️‍♂️ To balance my foodie side, I hit the gym — this year’s goal is visible abs!
 - 🎬 Movie buff here: up for any genre, but comedy always gets the biggest laugh.
+- ✍️ Recently, I’ve started writing blog posts — check out my [posts](/year-archive/)!
+- 📝 I've also started reading more books, if you have any book recommendations, please send them my way!😁
 
 Thanks for dropping by — explore around and feel free to reach out by email at any time, if something sparks your curiosity!
