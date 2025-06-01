@@ -9,7 +9,9 @@ tags:
   - psychology of money
 ---
 
-**I Started Reading Again After Years — Here's What **The Psychology of Money** Taught Me About Investing Young**
+<!-- <img src="https://user-images.githubusercontent.com/51282928/140687832-381c13a0-7a2b-495c-8817-eee5064c11b5.png" align="left" width="30" height="30">[Read this work](https://towardsdatascience.com/prediction-of-p-sonic-log-in-the-volve-oil-field-using-machine-learning-9a4afdb92fe8) in Towards Data Science -->
+
+### I Started Reading Again After Years — Here's What **The Psychology of Money** Taught Me About Investing Young
 
 It’s been a long time since I read a book—like, **really** read a book. The last time I did, I was probably still a teenager, lost in some novel during high school. But recently, I’ve made a commitment to pick up reading again—this time, with a clearer purpose: to improve myself. This blog post is one of the first few reflections I’m writing after finishing a book, and it’s part of my journey of learning and self-growth. I’m currently focusing on personal development, especially around financial literacy. I decided to read **The Psychology of Money** by Morgan Housel because I want to better understand how to save, manage, and invest money with the right mindset.
 
