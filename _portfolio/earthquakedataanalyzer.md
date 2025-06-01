@@ -9,10 +9,6 @@ collection: portfolio
 
 ### 🔁 From Theory to Application
 
-<p align="center">
-  <iframe width="500" height="300" src="https://www.youtube.com/embed/_rQDH7ZQ18Y?si=QgBTlfVIvRGyykHD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
-
 Coming from a geophysics background, I’ve always been fascinated by how physical principles manifest in real-world phenomena like earthquakes, gravity, and magnetic anomalies. Indonesia—my home country—sits on the Pacific Ring of Fire and experiences thousands of earthquakes yearly. This rich but complex dataset presents a unique opportunity: if processed correctly, it can reveal temporal-spatial patterns, help monitor seismic risks, and support policy planning.
 
 So, when I set out to build a final project on Code In Place 5 course, I want to reflect on both my academic foundation and basic practical programming skills that I just learned, I chose to develop **Earthquake Data Analyzer**—a clean, interactive, and modular tool that makes earthquake catalog dataset more accessible for geoscientific interpretation and reveal the hidden patterns of this dataset.
@@ -20,6 +16,10 @@ So, when I set out to build a final project on Code In Place 5 course, I want to
 This tool is especially useful in Indonesia, where earthquakes are frequent but the data often sits unused in CSV archives. By providing a way to **analyze** patterns—like whether a region is becoming more active, or if deep-focus events are increasing—we can bridge the gap between raw data and real-world insights.
 
 ### ⚙️ What Does It Do?
+
+<p align="center">
+  <iframe width="500" height="300" src="https://www.youtube.com/embed/_rQDH7ZQ18Y?si=QgBTlfVIvRGyykHD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
 `Earthquake Data Analyzer` is designed for **seismology beginners and analysts** who want to explore and understand earthquake catalogs without needing deep coding knowledge. It includes the following core features:
 
