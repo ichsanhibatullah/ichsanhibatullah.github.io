@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-site_theme: "default" #"dark" for dark mode
+site_theme: "default"
 title: "Ichsan's Portfolio"
 title_separator: "-"
 name: &name "Ichsan Hibatullah"
