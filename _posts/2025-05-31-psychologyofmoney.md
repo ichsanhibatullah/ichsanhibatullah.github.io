@@ -1,15 +1,13 @@
 ---
 title: 'Starting My Reading Habit with The Psychology of Money'
-date: 2025-06-01
-permalink: /posts/2025/06/psychologyofmoney/
+date: 2025-05-31
+permalink: /posts/2025/05/psychologyofmoney/
 tags:
   - self improvement
   - personal finance
   - book reflection
   - psychology of money
 ---
-
-<!-- <img src="https://user-images.githubusercontent.com/51282928/140687832-381c13a0-7a2b-495c-8817-eee5064c11b5.png" align="left" width="30" height="30">[Read this work](https://towardsdatascience.com/prediction-of-p-sonic-log-in-the-volve-oil-field-using-machine-learning-9a4afdb92fe8) in Towards Data Science -->
 
 ### I Started Reading Again After Years — Here's What **The Psychology of Money** Taught Me About Investing Young
 
@@ -18,7 +16,7 @@ It’s been a long time since I read a book—like, **really** read a book. The 
 Morgan Housel is a former columnist at The Motley Fool and The Wall Street Journal, and in **The Psychology of Money**, he writes about how our relationship with money isn’t purely rational—it’s deeply emotional and behavioral. Unlike most finance books, this one doesn’t throw complex formulas or investment strategies at you. Instead, it offers 19 short stories that explore how people think about money and the often irrational decisions we make. The beauty of Housel’s writing is how accessible and relatable it is—whether you’re a college student, a retiree, or someone just beginning to take money seriously.
 
 <div align="center">
-  <img src="https://m.media-amazon.com/images/S/amzn-author-media-prod/rtoaal9u1721n93pmiqkl7s1u1._SY450_CR0%2C0%2C450%2C450_.jpg" alt="Morgan Housel" width="360" height="360" />
+  <img src="https://m.media-amazon.com/images/S/amzn-author-media-prod/rtoaal9u1721n93pmiqkl7s1u1._SY450_CR0%2C0%2C450%2C450_.jpg" alt="Morgan Housel" width="240" height="240" />
 </div>
 <p align="center">Morgan Housel</p>
 

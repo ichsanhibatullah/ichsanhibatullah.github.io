@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-site_theme: "dark"
+site_theme: "default" #"dark" for dark mode
 title: "Ichsan's Portfolio"
 title_separator: "-"
 name: &name "Ichsan Hibatullah"
@@ -62,10 +62,10 @@ author:
   lastfm: # Username
   linkedin: "ichsanh24" # Username
   mastodon: # URL
-  medium: # URL
+  medium: "https://ichsanhibatullah.medium.com/" # URL
   pinterest: # Username
   soundcloud: # Username
-  steam: # Username
+  steam: "ichsanh24" # Username
   telegram: # URL
   tumblr: # Username
   twitter: "bukanichsan" # Username for X / Twitter
@@ -73,7 +73,7 @@ author:
   weibo: # Username
   wikipedia: # Username
   xing: # Username
-  youtube: # Username
+  youtube: "ichsanhibatullah" # Username
   zhihu: # Username
 
 # Publication Category - The following the list of publication categories and their headings
