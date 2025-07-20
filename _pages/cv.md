@@ -38,8 +38,8 @@ Work Experience
 
 Projects
 ======
-* [**Sonic Log Prediction using ML in the Volve Field**](https://ichsanhibatullah.github.io/portfolio/volvesonicml/) (Jun - Jul 2025)
-  Developed Machine Learning model for synthetic sonic log (DT & DTS) generation using Dataiku DSS.
+* **Sonic Log Prediction using ML in the Volve Field** (Jun - Jul 2025)  
+  Developed Machine Learning model for synthetic sonic log ([DT](https://ichsanhibatullah.github.io/portfolio/volvesonicdt/) & [DTS](https://ichsanhibatullah.github.io/portfolio/volvesonicdts/)) generation using Dataiku DSS.
 
 * [**lfpspy**](https://github.com/ichsanhibatullah/lfpspy) (Aug - Oct 2024)  
   An open‑source Python package for Low‑Frequency Passive Seismic processing, available on GitHub.

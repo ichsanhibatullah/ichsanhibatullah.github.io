@@ -1,5 +1,6 @@
 ---
 title: "Earthquake Data Analyzer - Exploring earthquake catalog dataset patterns using Python"
+date: 2025-05-31
 excerpt: "I. Hibatullah<br><br>An open-source Python project for extracting insights from earthquake datasets through statistical calculations summary." 
 #<br><img src='/images/earthquakedataanalysis/amplitude.png' width='600' height=500>
 collection: portfolio
@@ -17,9 +18,9 @@ This tool is especially useful in Indonesia, where earthquakes are frequent but 
 
 ### ⚙️ What Does It Do?
 
-<p align="center">
-  <iframe width="500" height="300" src="https://www.youtube.com/embed/_rQDH7ZQ18Y?si=QgBTlfVIvRGyykHD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
+  <p align="center">
+    <iframe width="500" height="300" src="https://www.youtube.com/embed/_rQDH7ZQ18Y?si=QgBTlfVIvRGyykHD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </p>
 
 `Earthquake Data Analyzer` is designed for **seismology beginners and analysts** who want to explore and understand earthquake catalogs without needing deep coding knowledge. It includes the following core features:
 
