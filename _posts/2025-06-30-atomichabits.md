@@ -44,7 +44,7 @@ By shifting my focus from “I have to work out” to “I just need to go downs
 In conclusion, **Atomic Habits** reminded me that meaningful change doesn’t require massive effort—just small, consistent actions, repeated day after day. If you’re looking to build better habits or break bad ones, I highly recommend giving this book a read.
 
 <p align="center">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg" alt="Atomic Habits Book Cover" width="auto" height="500" />
+  <img src="https://images-na.ssl-images-amazon.com/images/I/91bYsX41DVL.jpg" alt="Atomic Habits Book Cover" width="300" height="auto" />
   <br>
   <caption>Atomic Habits Book Cover</caption>
 </p>

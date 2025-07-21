@@ -16,7 +16,7 @@ It’s been a long time since I read a book—like, **really** read a book. The 
 Morgan Housel is a former columnist at The Motley Fool and The Wall Street Journal, and in **The Psychology of Money**, he writes about how our relationship with money isn’t purely rational—it’s deeply emotional and behavioral. Unlike most finance books, this one doesn’t throw complex formulas or investment strategies at you. Instead, it offers 19 short stories that explore how people think about money and the often irrational decisions we make. The beauty of Housel’s writing is how accessible and relatable it is—whether you’re a college student, a retiree, or someone just beginning to take money seriously.
 
 <p align="center">
-  <img src="https://m.media-amazon.com/images/S/amzn-author-media-prod/rtoaal9u1721n93pmiqkl7s1u1._SY450_CR0%2C0%2C450%2C450_.jpg" alt="Morgan Housel" width="auto" height="250" />
+  <img src="https://m.media-amazon.com/images/S/amzn-author-media-prod/rtoaal9u1721n93pmiqkl7s1u1._SY450_CR0%2C0%2C450%2C450_.jpg" alt="Morgan Housel" width="250" height="250" />
   <br>
   <caption>Morgan Housel</caption>
 </p>
@@ -26,7 +26,7 @@ The book shares many profound lessons—how luck and risk shape outcomes, why sa
 In conclusion, **The Psychology of Money** isn’t just a book about personal finance—it’s a reflection on human behavior. It helped me see that wealth is more about mindset than mechanics. Writing this blog post helped me process those lessons more deeply, and I hope it also inspires others to rethink how they view money. Whether you’re just getting started with your finances or looking for a mindset reset, I highly recommend giving this book a read.
 
 <p align="center">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/71g2ednj0JL.jpg" alt="The Psychology of Money Book Cover" width="auto" height="500" />
+  <img src="https://images-na.ssl-images-amazon.com/images/I/71g2ednj0JL.jpg" alt="The Psychology of Money Book Cover" width="300" height="auto" />
   <br>
   <caption>The Psychology of Money Book Cover</caption>
 </p>
