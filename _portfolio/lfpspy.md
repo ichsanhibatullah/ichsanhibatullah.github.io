@@ -18,22 +18,23 @@ The project culminated in a full case study on the Majalengka Sub-basin, Indones
 The core of `lfpspy` consists of:
 - **Spectrum Analysis**: Computes Power Spectral Density on the vertical component (PSD‑Z) and Horizontal‑to‑Vertical Spectral Ratio (H/V) to identify low‑frequency anomalies associated with reservoir rock.  
 
-    <figure align="center">
-    <img src="https://github.com/ichsanhibatullah/ichsanhibatullah.github.io/blob/master/images/lfpspy/Station%2038-Spectral%20Analysis.png?raw=true" alt="Spectral Analysis" width="600" height="auto"/>
-    </figure>
+<p align="center">
+  <img src="https://github.com/ichsanhibatullah/ichsanhibatullah.github.io/blob/master/images/lfpspy/Station%2038-Spectral%20Analysis.png?raw=true" alt="Spectral Analysis" width="600" height="auto"/>
+</p>
 
 - **Window‑Rejection Algorithm**: Implements Cox et al.’s, which uses statistical thresholds in the frequency domain to reject contaminated windows before averaging, boosting signal‑to‑noise robustness and significantly improving the clarity of low-frequency V/H peaks.
 
-    <figure align="center">
-    <img src="https://github.com/ichsanhibatullah/ichsanhibatullah.github.io/blob/master/images/lfpspy/FDWR%20modified%20from%20Cox.png?raw=true" alt="FDWR Algorithm" width="500" height="auto"/>
-    <figcaption>Frequency-domain Window-rejection Algorithm Flowchart (modified from Cox et al.)</figcaption>
-    </figure>
+<p align="center">
+  <img src="https://github.com/ichsanhibatullah/ichsanhibatullah.github.io/blob/master/images/lfpspy/FDWR%20modified%20from%20Cox.png?raw=true" alt="FDWR Algorithm" width="500" height="auto"/>
+  <br>
+  <caption align="center">Frequency-domain Window-rejection Algorithm Flowchart (modified from Cox et al.)</caption>
+</p>
 
 - **Polarization Analysis**: Performs Principal Component Analysis (PCA) to evaluate particle motion in sliding time windows. This yields dip, azimuth, rectilinearity, and eigenvalue ratios—important for distinguishing noise from signal and validating spectral peaks.
 
-    <figure align="center">
-    <img src="https://github.com/ichsanhibatullah/ichsanhibatullah.github.io/blob/master/images/lfpspy/Station%2038-Polarization%20Analysis.png?raw=true" alt="Polarization Analysis" width="400" height="300"/>
-    </figure>
+<p align="center">
+  <img src="https://github.com/ichsanhibatullah/ichsanhibatullah.github.io/blob/master/images/lfpspy/Station%2038-Polarization%20Analysis.png?raw=true" alt="Polarization Analysis" width="400" height="300"/>
+</p>
 
 ### 🧾 Citation
 - Cox, B. R., Cheng, T., Vantassel, J. P., & Manuel, L. (2020). "A statistical representation and frequency-domain window-rejection algorithm for single-station HVSR measurements. Geophysical Journal International, 221(3), 2170–2183. https://doi.org/10.1093/gji/ggaa119

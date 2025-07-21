@@ -39,29 +39,35 @@ This experiment demonstrated highly promising results, validating the effectiven
 
 * **Superior Model Performance:** The **Random Forest** algorithm consistently outperformed XGBoost and LightGBM across all feature sets, proving to be the most accurate and reliable model for this specific application.
 
-    <figure align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*R5inL2Xux5n_gTso9ZmVzg.png" alt="Model Performance Table" width="auto" height="auto"/>
-    </figure>
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*l-RimxsNgik4pMtDM_BS2Q.png" alt="Model Performance Table" width="auto" height="400"/>
+</p>
 
 * **Optimal Feature Subset:** Notably, even with a concise set of four features (Gamma Ray, Resistivity, Neutron Porosity, and Density), the Random Forest model achieved excellent accuracy, with an RMSE of **4.09 US/F** and MAPE of **3.3%** on blind test. This indicates that a basic input can still yield robust predictions, **potentially optimizing data acquisition strategies**.
 
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*R5inL2Xux5n_gTso9ZmVzg.png" alt="Complete Model Evaluation Table" width="auto" height="auto"/>
+</p>
+
 * **Feature Importance:** Across all models, Neutron Porosity (NPHI) consistently ranked as the most important feature, followed by Density (RHOB), Gamma Ray (GR), and Resistivity (RT). 
 
-    <figure align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*APztRZLYhaBvuDXSd1CVnQ.png" alt="Feature Importance" width="450" height="auto"/>
-    </figure>
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*APztRZLYhaBvuDXSd1CVnQ.png" alt="Feature Importance" width="450" height="auto"/>
+</p>
 <!-- This aligns well with petrophysical understanding of their influence on acoustic properties. -->
 
 * **Visual Validation:** The synthetic DT logs for both blind wells (wells with existing DT logs not used in training) and wells with no DT data showed remarkable agreement with expected geological trends and with actual measured DT logs. The model successfully captured major geological features, confirming the physical plausibility of the predictions. The visual comparison also highlighted minimal differences in prediction quality when comparing models trained with 4, 5, or 6 features, further reinforcing the efficiency of the 4-feature model.
 
-    <figure align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*mRAgdc-svLyqum18ciWzxQ.png" alt="DT prediction for well 15/9-F-11 A as blind well" width="700" height="auto"/>
-    <figcaption>DT prediction for well 15/9-F-11 A as blind well</figcaption>
-    </figure>
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*mRAgdc-svLyqum18ciWzxQ.png" alt="DT prediction for well 15/9-F-11 A as blind well" width="700" height="auto"/>
+  <br>
+  <caption align="center">DT prediction for well 15/9-F-11 A as blind well</caption>
+</p>
 
-    <figure align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*kNUfpcROV-BARTC6c9LXow.png" alt="DT prediction for well 15/9-F-1 C as well without DT log" width="700" height="auto"/>
-    <figcaption>DT prediction for well 15/9-F-1 C as well without DT log</figcaption>
-    </figure>
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*kNUfpcROV-BARTC6c9LXow.png" alt="DT prediction for well 15/9-F-1 C as well without DT log" width="700" height="auto"/>
+  <br>
+  <caption align="center">DT prediction for well 15/9-F-1 C as well without DT log</caption>
+</p>
 
 This project not only delivered accurate synthetic DT logs for absent data or critical data gaps, but also underscored the **transformative potential of integrating robust ML techniques within geoscience domain knowledge**.
